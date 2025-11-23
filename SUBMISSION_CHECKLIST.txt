@@ -1,0 +1,30 @@
+SUBMISSION CHECKLIST – Bangla Movie Review RNN
+
+1. REPORT (PDF Document)
+Filename:
+REPORT_Movie_review_022221000510001129_022221000510001121_022221000510001130_022221000510001138.pdf
+Description:
+Final project report following IEEE/Springer structure. Includes:
+- Dataset Description + EDA
+- Methodology (Model Architecture, Hyperparameters, Training Setup)
+- Results (Accuracy, F1, Metrics, Confusion Matrices, Curves)
+- Discussion, Ethical Issues, Conclusion & Future Work
+
+2. SOURCE CODE (Compressed)
+Filename:
+CODE_022221000510001129_022221000510001121_022221000510001130_022221000510001138.rar
+Description:
+Contains complete codebase split into 6 executable modules + demo:
+- part1.py (Dataset loading + Environment setup)
+- part2.py (Cleaning + Label preparation)
+- part3.py (EDA + Charts + Figures)
+- part4.py (Tokenization + Train/Validation/Test split)
+- part5.py (Model Training – Underfit, Good Fit, Overfit)
+- part6.py (Evaluation, Confusion Matrices, Saving Models)
+- input_output_demo.py (Manual prediction interface)
+
+3. Manual Prediction Script
+Filename:
+input_output_demo.py
+Description:
+Allows users to manually input Bangla movie reviews and receive instant sentiment predictions using the trained “GOOD FIT” 
