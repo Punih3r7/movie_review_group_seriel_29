@@ -1,0 +1,25 @@
+# Core Python ML & Data Libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# TensorFlow / Keras (GPU compatible)
+tensorflow==2.15.0
+keras==2.15.0
+
+# Plotting
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Jupyter Notebook Tools (optional but useful)
+ipython==8.25.0
+jupyter==1.0.0
+
+# Text processing and tokenization
+regex==2024.5.10
+
+# Excel reading support
+openpyxl==3.1.5
+
+# For saving/loading model files
+h5py==3.11.0
