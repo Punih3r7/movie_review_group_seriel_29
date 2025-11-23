@@ -1,18 +1,3 @@
-# Bangla Movie Review Sentiment Classification (RNN, 3 variants)
-# --------------------------------------------------------------
-# This notebook-style pipeline is designed to support your final report:
-#
-# Sections it helps with:
-# - Dataset: load, EDA, cleaning
-# - Methodology: model architecture, hyperparameters, fine-tuning details
-# - Training procedure: losses, optimizers, seeds, environment
-# - Results: metrics, tables, figures, confusion matrices
-# - Discussion: limitations and ethical considerations (printed as a draft)
-#
-# It also:
-# - Trains 3 RNN variants: underfitting, "good" fit, overfitting
-# - Saves many plots into ./figures/ (you can download and insert in LaTeX)
-# - Saves best model + tokenizer to the current directory
 
 import os
 import random
